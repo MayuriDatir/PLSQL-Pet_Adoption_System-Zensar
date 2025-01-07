@@ -1,9 +1,11 @@
 Name: Datir Mayuri Bhausaheb
+
 Batch 1
+
 Amrutvahini College Of Engineering, Sangamner
  
 Project Description: Pet Adoption Database Management System
-    The Pet Adoption Database Management System* is designed to efficiently manage pet adoption processes using Oracle's PL/SQL technology. This system automates core tasks such as tracking available pets, managing adopter details, recording adoption events, and generating insightful reports.
+    The Pet Adoption Database Management System is designed to efficiently manage pet adoption processes using Oracle's PL/SQL technology. This system automates core tasks such as tracking available pets, managing adopter details, recording adoption events, and generating insightful reports.
 
 Key Objectives:
 1. Data Organization: Store information about pets, adopters, and adoption events systematically.
