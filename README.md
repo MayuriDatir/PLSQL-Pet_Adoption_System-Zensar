@@ -11,7 +11,7 @@ Key Objectives:
 1. Data Organization: Store information about pets, adopters, and adoption events systematically.
 2. Status Management: Update and track adoption statuses for pets and adoptions.
 3. Automation with Triggers: Notify users of status changes automatically.
-4. Reporting and Analytics:* Generate comprehensive reports for informed decision-making.
+4. Reporting and Analytics: Generate comprehensive reports for informed decision-making.
 
 System Features:
 - Pets Table: Stores details about pets, including their species, breed, age, and availability status.
